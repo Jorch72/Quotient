@@ -35,4 +35,4 @@ common and well-tested tool on those platforms.
 ## Where?
 
 You can download Quotient from [GitHub Releases]() or the [Elytra CI](). The
-former is stable builds, the later is experimental builds.
+former is stable builds, the latter is experimental builds.
